@@ -91,7 +91,6 @@ As **COO of SYNTHI-AI**, I develop innovative projects **in agritech and climate
 ---
 
 ## 📊 GitHub Activity
-## 📊 GitHub Activity
 <table>
   <tr>
     <td>
