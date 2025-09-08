@@ -26,7 +26,8 @@ As **COO of SYNTHI-AI**, I develop innovative projects **in agritech and climate
 ## 🏆 Recognition  
 - 🏆 **Hackathon Winner** – 1st place in an international hackathon with “Qualaria” to win + sustainability award. [📰 Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
 - 📚 **Educator** – Trained  Undergraduate, MSc and professional students in Python Programming, ML & Data Science.  
-- 🌐 **Speaker – Deep learning indaba (2025)** – Invited speaker at the  **Centring Data in African AI** session, sharing my journey in ML with the community.  
+- 🌐 **Speaker – Deep learning indaba (2025)** – Invited speaker at the  **Centring Data in African AI** session, sharing my journey in ML with the community.
+- 🌟**Best Poster Award, Deep Learning Indaba 2025** Awarded for: Federated Learning for Respiratory Disease Forecasting in Africa
 
 
 
