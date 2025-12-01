@@ -4,7 +4,7 @@ src="https://github.com/MELAI-1/MELAI-1/blob/main/sdg.webp" />
 # Hi, I’m Astride Melvin Fokam Ninyim 👋🏾 
 
 I’m a **Google DeepMind Scholar, Data Scientist, and AI Innovator** (AI for Science, Stellenbosch University & AIMS South Africa, 2025).
-My work blends **Machine learning, NLP, Computer vision,Quantum computing and Robotics**, focusing on building AI solutions that drive **real-world impact**.
+My work blends **Machine learning, NLP, Computer vision, Quantum computing and Robotics**, focusing on building AI solutions that drive **real-world impact**.
 
 As **COO of SYNTHI-AI**, I develop innovative projects **in agritech and climate-focused tech, from predictive models to sustainable systems**. I’m passionate about teaching machine learning through hands-on projects and advocating for **climate change solutions and digital inclusion** across Africa.
 
